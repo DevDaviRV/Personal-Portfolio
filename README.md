@@ -30,16 +30,11 @@ Javascript, HTML, CSS, Bootstrap, UI Design
 
 ## Roadmap
 
-- Finalizar Sessão Sobremim.
 
 - Testar Performance.
+- Preparar lançamento.
 
-- Finalizar Dark e Light.
 
-- Alterar LorenIpsus para Texto Original.
 
-- Integrar e Avaliar o funcionamento dos links.
-
-- Corrigir Links no Readme.
 
 
