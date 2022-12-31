@@ -3,17 +3,8 @@
 
 Esse portfolio foi criado para divulgar e registrar meu trabalho como Desenvolvedor WEB.
 
-
-## Demonstração Desktop
-
-https://user-images.githubusercontent.com/104698942/209248003-282e69e9-ff5f-47eb-823b-e5f19aa0b640.png
-
-## Demonstração Mobile
-
-https://user-images.githubusercontent.com/104698942/209248014-803b6ca1-e2c0-4e15-9be4-e1096aa547e3.png
 ## Funcionalidades
 
-- Temas dark e light
 - Formulário
 - Multiplataforma
 - Performance
