@@ -211,7 +211,6 @@
     selector: '.portfolio-lightbox'
   });
 
-
   /**
    * Animation on scroll
    */
