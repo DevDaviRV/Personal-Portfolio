@@ -33,6 +33,7 @@ Javascript, HTML, CSS, Bootstrap, UI Design
 
 - Testar Performance.
 - Preparar lançamento.
+- Deploy em subdominio da DDRV - StudioTech
 
 
 
